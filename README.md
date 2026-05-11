@@ -2,6 +2,10 @@
 
 A simple and responsive To-Do App built with HTML, CSS, and JavaScript to help users add, organize, filter, and manage daily tasks.
 
+## Live Demo
+
+[View Live Project](https://adagarwal24.github.io/todo-app/)
+
 ## Features
 
 - Add new tasks
