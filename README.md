@@ -38,12 +38,6 @@ todo-app/
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
-## Future Improvements
-
-- Add task edit functionality
-- Add due dates or priorities
-- Improve mobile layout further
-- Add dark/light theme toggle
 
 ## Author
 
