@@ -13,6 +13,7 @@ A simple and responsive To-Do App built with HTML, CSS, and JavaScript to help u
 - Filter tasks by all, pending, and completed
 - Clear completed tasks
 - Save tasks in the browser using localStorage
+- Responsive design for desktop and mobile devices
 - Responsive and visually styled interface
 
 ## Tech Stack
