@@ -107,7 +107,7 @@ function renderTasks() {
 
     if (filteredTasks.length === 0) {
     const empty = document.createElement("p");
-    empty.textContent = "No tasks here yet...";
+    //empty.textContent = "No tasks here yet...";
     empty.style.opacity = "0.6";
     empty.style.textAlign = "center";
     taskList.appendChild(empty);
