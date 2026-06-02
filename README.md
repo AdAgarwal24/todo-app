@@ -28,7 +28,6 @@ todo-app/
 ├── index.html
 ├── style.css
 ├── script.js
-├── bg.png
 └── README.md
 ```
 
